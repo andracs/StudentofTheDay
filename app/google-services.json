@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "4848173666",
+    "firebase_url": "https://studentoftheday-31fde.firebaseio.com",
+    "project_id": "studentoftheday-31fde",
+    "storage_bucket": "studentoftheday-31fde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4848173666:android:45c043351f0d0358",
+        "android_client_info": {
+          "package_name": "dk.acsandras.studentoftheday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4848173666-ibmkus8n5b1h4ahtu60tik8rhvbh3efv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dk.acsandras.studentoftheday",
+            "certificate_hash": "f9b63261339307dc7427cb0f48c02a2dc774160f"
+          }
+        },
+        {
+          "client_id": "4848173666-32ed5j4sju4i7lufj2mfof2o7dkst32n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9x3BSCEa2KikowF2ssZjow-Gpdzf2DXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4848173666-32ed5j4sju4i7lufj2mfof2o7dkst32n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
